@@ -66,7 +66,7 @@ E[기능요청] --> F(Code generation)
 - 구성원들 대부분이 필요하다고 생각 하고 있지만 업무량이 많다보니 계속 미뤄지고 몇몇은 변경의 필요성도 느끼지 못하고 있음
 - 지금 시스템에서 매일 결제된 데이터에 대한 리포트 데이터를 만드는 batch가 있는데 시스템 영향이 적고 적절한 사이즈로 보여 해당 부분을 jpa로 변경 해볼 수 있을것 같음.
 ### 기술적용 아키텍쳐
-- As-Is
-![AsIsArchitecture]([https://nextstep-storage.s3.ap-northeast-2.amazonaws.com/7066c3f79f184a1a9f50082abbfb1a9a](https://nextstep-storage.s3.ap-northeast-2.amazonaws.com/74cf215a1a9a49399797cfd225cab19a)https://nextstep-storage.s3.ap-northeast-2.amazonaws.com/74cf215a1a9a49399797cfd225cab19a)
+- To-Be
+![AsIsArchitecture]([https://nextstep-storage.s3.ap-northeast-2.amazonaws.com/74cf215a1a9a49399797cfd225cab19a)
 
 
