@@ -70,6 +70,6 @@ E[기능요청] --> F(Code generation)
 - DB변경이 있을경우 유지보수성이 높아진다. (기존 myBatis에서 쿼리수정 : 1일, JPA에서 처리 0.5일)
 ### 기술적용 아키텍쳐
 - To-Be
-![AsIsArchitecture]([https://nextstep-storage.s3.ap-northeast-2.amazonaws.com/74cf215a1a9a49399797cfd225cab19a)
+![AsIsArchitecture](https://nextstep-storage.s3.ap-northeast-2.amazonaws.com/74cf215a1a9a49399797cfd225cab19a)
 
 
