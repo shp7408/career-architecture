@@ -16,10 +16,10 @@
 - 과정기간내에 달성 가능한 목표를 잡아 본다.
 #### 프로세스 개선
 > ARCHITECTURE-example1.md, ARCHITECTURE-example2.md 파일을 참고하여 미션을 진행
-- 반복적으로 하고있는 업무 중 자동화 할 수 있거나 효율적으로 개선할 수 있는 프로세스의 현재 작성한다.
+- 반복적으로 하고있는 업무 중 자동화 할 수 있거나 효율적으로 개선할 수 있는 현재 프로세스의 작성한다.
 - 로그를 확인하고 data를 update 하는 것과 같이 수기로 뭔가 처리하면서 시간을 소모하는 담당업무를 찾아본다.
 #### 기술 적용
-> ARcHITECTURE-example3.md, architecture-example3.png
+> ARcHITECTURE-example3.md, architecture-example3.png 파일을 참고하여 미션을 진행
 - 학습에서 습득한 기술 중 담당하고 있는 시스템에 적용가능한 부분의 현재 구조를 작성한다.
 - 서비스에 영향이 최소화 되고 의존성이 작은 단위의 프로그램을 설정 한다.
     - 단일 Batch, 모니터링 데몬, 어드민의 일부기능 ... 
