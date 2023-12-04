@@ -1,5 +1,5 @@
 # career-architecture
-> mermaid로 작성된 과제는 마크다운 파일(ARCHITECTURE.md)로 올려주시면 됩니다. (md 파일 내에 기존 구조를 넣어주세요)
+> mermaid로 작성된 과제는 마크다운 파일(ARCHITECTURE.md)로 올려주시면 됩니다. (md 파일 내에 기존 구조를 넣어주세요)<br>
 > 별도 아키택쳐나 모델링 도구를 사용한 경우에는 마크다운 파일(ARCHITECTURE.md)과 png, gif, jpg, pdf 파일 형식으로 architecture-{gitID}.png 파일명으로 upload 해주세요
 # 요구사항
 - [ ] 담당 하는 업무에서 비효율적인 프로세스나 기술적 개선을 하고 싶은 부분의 현재 구조를 문서화 한다.
@@ -13,6 +13,6 @@
 - 구성원들 대부분이 필요하다고 생각 하고 있지만 업무량이 많다보니 계속 미뤄지고 몇몇은 변경의 필요성도 느끼지 못하고 있음
 - 지금 시스템에서 매일 결제된 데이터에 대한 리포트 데이터를 만드는 batch가 있는데 시스템 영향이 적고 적절한 사이즈로 보여 해당 부분을 jpa로 변경 해볼 수 있을것 같음.
 ### 기술적용 아키텍쳐
-- architecture-example.png 참고
+- architecture-example3.png 참고
 
 
