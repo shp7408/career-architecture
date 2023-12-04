@@ -1,5 +1,5 @@
 # career-architecture
-> mermaid로 작성된 과제는 마크다운 파일(ARCHITECTURE.md)로 올려주시면 됩니다. (md 파일 내에 기존 구조를 넣어주세요)
+> mermaid로 작성된 과제는 마크다운 파일(ARCHITECTURE.md)로 올려주시면 됩니다. (md 파일 내에 기존 구조를 넣어주세요) <br>
 > 별도 아키택쳐나 모델링 도구를 사용한 경우에는 마크다운 파일(ARCHITECTURE.md)과 png, gif, jpg, pdf 파일 형식으로 architecture-{gitID}.png 파일명으로 upload 해주세요
 # 요구사항
 - [ ] 담당 하는 업무에서 비효율적인 프로세스나 기술적 개선을 하고 싶은 부분의 현재 구조를 문서화 한다.
@@ -15,11 +15,11 @@
 - 되도록이면 비효율적인 프로세스를 개선하여 성장을 위한 추가적인 리소스를 확보할 수 있는 것을 우선으로 잡아 본다.
 - 과정기간내에 달성 가능한 목표를 잡아 본다.
 #### 프로세스 개선
-> ARcHITECTURE-example1.md, ARcHITECTURE-example2.md 파일을 참고하여 미션을 진행
+> ARCHITECTURE-example1.md, ARCHITECTURE-example2.md 파일을 참고하여 미션을 진행
 - 반복적으로 하고있는 업무 중 자동화 할 수 있거나 효율적으로 개선할 수 있는 프로세스의 현재 작성한다.
 - 로그를 확인하고 data를 update 하는 것과 같이 수기로 뭔가 처리하면서 시간을 소모하는 담당업무를 찾아본다.
 #### 기술 적용
-> ARcHITECTURE-example3.md, architecture-example.png
+> ARcHITECTURE-example3.md, architecture-example3.png
 - 학습에서 습득한 기술 중 담당하고 있는 시스템에 적용가능한 부분의 현재 구조를 작성한다.
 - 서비스에 영향이 최소화 되고 의존성이 작은 단위의 프로그램을 설정 한다.
     - 단일 Batch, 모니터링 데몬, 어드민의 일부기능 ... 
