@@ -43,7 +43,4 @@ flowchart TD
     D --> E
     E[isPaid API 결과: True]
 
-    classDef default fill:#,stroke:#b2bec3,stroke-width:1px;
-    class A,B,C,D,E default;
-
 ```
