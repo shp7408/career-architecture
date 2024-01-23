@@ -32,9 +32,4 @@ flowchart TD
     B --> E[기능: 식별자]
     C --> F[기능: 생성 시간 기록]
     D --> G[기능: 삭제 상태 기록]
-
-
-    classDef default fill:#,stroke:#b2bec3,stroke-width:1px;
-    class A,B,C,D,E,F,G default;
-
 ```
